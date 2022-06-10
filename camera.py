@@ -9,4 +9,5 @@ while True:
     q=cv2.waitKey(1)
     if q==ord("q"):
         break
+        
 cv2.destroyAllWindows()
